@@ -1,0 +1,8 @@
+accelerator:
+  displayName: Simple accelerator
+  description: Contains just a README
+  iconURL: https://images.freecreatives.com/wp-content/uploads/2015/05/smiley-559124_640.jpg
+  tags:
+  - java
+  - spring
+  - tanzu
